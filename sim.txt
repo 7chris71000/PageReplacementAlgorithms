@@ -1,0 +1,20 @@
+Running simulation using FIFO
+Number of faults: 158107
+Number memory accesses (no faults): 2663272
+Number of faults per 1000 references: 56
+
+Running simulation using CLOCK
+Number of faults: 200000
+Number memory accesses (no faults): 68
+Number of faults per 1000 references: 999
+
+Running simulation using LRU
+Number of faults: 200000
+Number memory accesses (no faults): 68
+Number of faults per 1000 references: 999
+
+Running simulation using COUNT
+Number of faults: 200000
+Number memory accesses (no faults): 68
+Number of faults per 1000 references: 999
+

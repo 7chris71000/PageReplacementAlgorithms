@@ -1,0 +1,5 @@
+Compile
+javac -cp ".;abcmod.jar;colt.jar" *.java
+
+Run
+java -cp ".;abcmod.jar;colt.jar" MemManageExp > sim.txt
