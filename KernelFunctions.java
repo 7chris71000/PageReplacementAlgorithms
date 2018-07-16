@@ -110,6 +110,16 @@ public class KernelFunctions
 	// CLOCK page Replacement algorithm
 	public static void pageReplAlgorithmCLOCK(int vpage, Process prc)
 	{
+		//create map with the 0 or 1 as the clock value
+		/*
+		while(proccess is not in the clock)
+		if(current page bit is 0){
+			replace current with process
+		} else {
+			set current page bit to 0
+		}
+		advance clock pointer using mod to ensure circular array
+		*/
 	}
 
 	// LRU page Replacement algorithm
